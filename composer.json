@@ -1,5 +1,5 @@
 {
-    "name": "youthage/laravel-geohash",
+    "name": "frankiez/laravel-geohash",
     "description": "LBS地理位置距离计算方法geohash，将一个经纬度信息，转换成一个可以排序，可以比较的字符串编码，用于高效搜索",
     "require": {
         "php": ">=5.6"
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "YouthAge",
-            "email": "myouthage@gmail.com"
+            "name": "frankiez",
+            "email": "cfanpk@qq.com"
         }
     ],
     "minimum-stability": "dev",
