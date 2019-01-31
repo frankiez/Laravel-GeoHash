@@ -1,5 +1,5 @@
 <?php
-
+namespace Geohash;
 /**
  * Geohash generation class for php 
  */
